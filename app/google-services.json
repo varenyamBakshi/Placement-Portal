@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706650749462",
+    "project_id": "placementportal-4afbd",
+    "storage_bucket": "placementportal-4afbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706650749462:android:5afdb2a1ca592dc6715337",
+        "android_client_info": {
+          "package_name": "com.example.placementportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706650749462-6tmu9vecb0igjbe5gm4tj39hnihb23d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKCt8AGhsTu8DECHdCWjjaGwlJkGuNs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706650749462-6tmu9vecb0igjbe5gm4tj39hnihb23d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
